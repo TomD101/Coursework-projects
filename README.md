@@ -28,19 +28,16 @@ Analysis and Output:
 ## Usage
 
 1. Clone the repository:
-Bash
 git clone https://github.com/TomD101/Coursework-projects.git
 
 2. Install required libraries:
-Bash
 pip install -r requirements.txt
 
 3. (Optional) Replace the amazon_product_reviews.csv file:
 If you have your own CSV containing product reviews (ensure it has a "reviews.text" column), replace the existing file.
 
 4. Run the script:
-Bash
-python amazon_product_review_sentiment_analysis.py
+python sentiment_analysis_fianl.py # Replace with your actual script name if different
 
 ## Dependencies
 
